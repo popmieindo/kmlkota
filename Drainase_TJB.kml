@@ -14012,7 +14012,7 @@
 
 <tr align="left" bgcolor="white">
 
-<td><a target="_blank" href="{{ asset('tampilan')/assets/img/rumah.jpeg }}">perkim_20221118_093623234.jpg</a></td>
+<td><img src="{{ asset('tampilan')/assets/img/rumah.jpeg }}" alt=""></td>
 
 <td><a target="_blank" href="">perkim_20221118_093841018.jpg</a></td>
 
